@@ -1,1 +1,1 @@
-# Generative and agentic AI
+# Generative and Agentic AI
